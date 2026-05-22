@@ -1,0 +1,5 @@
+# [videos](https://realpython.com/videos)
+## [Tapping Into the Zen of Python](../courses/tapping-into-the-zen-of-python/)
+* [Tapping Into the Zen of Python (Overview)](./tapping-into-the-zen-of-python-overview/)
+* [Reading the Poem](./reading-poem/)
+* [Understanding the History of the Poem](./understanding-history-poem/)
