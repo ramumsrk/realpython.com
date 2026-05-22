@@ -1,0 +1,10 @@
+# [Lessons](https://realpython.com/lessons)
+## [Tapping Into the Zen of Python](../courses/tapping-into-the-zen-of-python/)
+* [Demonstrating Practical Advice](../lessons/demonstrating-practical-advice/)
+* [Exercise: Flat Is Better Than Nested](./exercise-flatten-pythonic-check/)
+* [Exploring Contradictions and Balance](./exploring-contradictions-balance/)
+* [Embracing the Jokes](./embracing-jokes/)
+* [Does Python Itself Follow the Advice](./does-follow-advice/)
+### Reviewing What You've Learned
+* [Tapping Into the Zen of Python (Quiz)](./tapping-into-the-zen-of-python-quiz/)
+* [Tapping Into the Zen of Python (Summary)](./tapping-into-the-zen-of-python-summary/)
