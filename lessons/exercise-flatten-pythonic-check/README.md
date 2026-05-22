@@ -1,0 +1,1 @@
+# [Exercise: Flat Is Better Than Nested](https://realpython.com/lessons/exercise-flatten-pythonic-check/)
